@@ -1,6 +1,6 @@
 saludar="YES"
 
 if (saludar=="NO"):
-    print("hola Mundo !! ")
+    print("Hola Mundo !! ")
 else:
     print("Adiós Mundo !! ")
