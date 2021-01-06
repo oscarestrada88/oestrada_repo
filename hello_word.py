@@ -1,7 +1,6 @@
-print "Hola Mundo"
-saludar='YES'
+saludar="YES"
 
-if (saludar==YES):
-    print("hola Mundo !! ")
+if (saludar=="NO"):
+    print("Hola Mundo !! ")
 else:
     print("Adiós Mundo !! ")
